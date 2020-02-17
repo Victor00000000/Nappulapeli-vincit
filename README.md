@@ -1,3 +1,7 @@
+This App is hosten on http://home.tamk.fi/~e4vhaimi/Nappula/
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
