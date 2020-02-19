@@ -1,4 +1,4 @@
-This App is hosten on http://home.tamk.fi/~e4vhaimi/Nappula/
+This App is hosted on https://nappulapeli-vh.herokuapp.com/
 
 
 
